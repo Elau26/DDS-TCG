@@ -1,0 +1,4786 @@
+{
+  "100": {
+    "id": "100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vasuki",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/k1BkPvK.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vasuki",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Neutral"
+    ],
+    "Subtype": "Drake",
+    "Flying?": false,
+    "Attack Power": "70",
+    "HP": "50"
+  },
+  "101": {
+    "id": "101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mushussu",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/4WNtkWa.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mushussu",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Drake",
+    "Flying?": true,
+    "Attack Power": "40",
+    "HP": "40"
+  },
+  "102": {
+    "id": "102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Uwabami",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/2DqBtZ4.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Uwabami",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Drake",
+    "Flying?": false,
+    "Attack Power": "40",
+    "HP": "10"
+  },
+  "103": {
+    "id": "103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vetala",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/CKJPkyc.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vetala",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Haunt",
+    "Flying?": false,
+    "Attack Power": "50",
+    "HP": "50"
+  },
+  "104": {
+    "id": "104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kudlak",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/7rZPMlD.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kudlak",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Chaos"
+    ],
+    "Subtype": "Haunt",
+    "Flying?": true,
+    "Attack Power": "40",
+    "HP": "40"
+  },
+  "105": {
+    "id": "105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ghoul",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/ZcyknxU.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ghoul",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark"
+    ],
+    "Subtype": "Haunt",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "20"
+  },
+  "106": {
+    "id": "106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Macabre",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/3KSp4av.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Macabre",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Spirit",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "20"
+  },
+  "107": {
+    "id": "107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Inferno",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/DX3TOsy.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Inferno",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos"
+    ],
+    "Subtype": "Spirit",
+    "Flying?": false,
+    "Attack Power": "10",
+    "HP": "20"
+  },
+  "108": {
+    "id": "108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poltergeist",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/lTPnnHv.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poltergeist",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark"
+    ],
+    "Subtype": "Spirit",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": "10"
+  },
+  "109": {
+    "id": "109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Doppelganger",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/6meeT4w.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Doppelganger",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Dark"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Chaos"
+    ],
+    "Subtype": "Foul",
+    "Flying?": false,
+    "Attack Power": "10",
+    "HP": "10"
+  },
+  "110": {
+    "id": "110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tatoo Man",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/W1mO8zX.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tattoo Man",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Neutral"
+    ],
+    "Subtype": "Foul",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "20"
+  },
+  "111": {
+    "id": "111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hooligan",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/Ffezy1M.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hooligan",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos"
+    ],
+    "Magnetite Emission": [
+      "Dark"
+    ],
+    "Subtype": "Foul",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": "10"
+  },
+  "112": {
+    "id": "112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Charley",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://i.imgur.com/Cr6hq7o.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Charley",
+    "type": false,
+    "cost": 0,
+    "Magnetite Cost": false,
+    "Magnetite Emission": [
+      "Chaos"
+    ],
+    "Subtype": "Male",
+    "Flying?": false,
+    "Attack Power": "30",
+    "HP": "10"
+  },
+  "113": {
+    "id": "113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Akira",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://i.imgur.com/8i9bRcw.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Akira",
+    "type": "Partner",
+    "cost": 0,
+    "Magnetite Cost": false,
+    "Magnetite Emission": [
+      "Dark"
+    ],
+    "Subtype": "Male",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "30"
+  },
+  "114": {
+    "id": "114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Victor",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://i.imgur.com/UFMNshm.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Victor",
+    "type": "Partner",
+    "cost": 0,
+    "Magnetite Cost": false,
+    "Magnetite Emission": [
+      "Chaos"
+    ],
+    "Subtype": "Male",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "20"
+  },
+  "115": {
+    "id": "115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kyouji",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://i.imgur.com/Ks4vwwN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kyouji",
+    "type": "Partner",
+    "cost": 0,
+    "Magnetite Cost": false,
+    "Magnetite Emission": [
+      "Light",
+      "Chaos"
+    ],
+    "Subtype": "Male",
+    "Flying?": false,
+    "Attack Power": "30",
+    "HP": "20"
+  },
+  "116": {
+    "id": "116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sid Davis",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://i.imgur.com/kRQjxNq.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sid Davis",
+    "type": "Partner",
+    "cost": 0,
+    "Magnetite Cost": false,
+    "Magnetite Emission": [
+      "Dark"
+    ],
+    "Subtype": "Male",
+    "Flying?": false,
+    "Attack Power": "30",
+    "HP": "10"
+  },
+  "118": {
+    "id": "118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nanjo Kei",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://i.imgur.com/FtsCVz0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nanjo Kei",
+    "type": "Partner",
+    "cost": 0,
+    "Magnetite Cost": false,
+    "Magnetite Emission": [
+      "Law",
+      "Neutral"
+    ],
+    "Subtype": "Male",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "20"
+  },
+  "119": {
+    "id": "119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reiko",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://i.imgur.com/C5ApESt.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reiko",
+    "type": "Partner",
+    "cost": 0,
+    "Magnetite Cost": false,
+    "Magnetite Emission": [
+      "Light",
+      "Law"
+    ],
+    "Subtype": "Female",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "10"
+  },
+  "120": {
+    "id": "120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yumi",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://i.imgur.com/IlZDNAy.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yumi",
+    "type": "Partner",
+    "cost": 0,
+    "Magnetite Cost": false,
+    "Magnetite Emission": [
+      "Light",
+      "Law"
+    ],
+    "Subtype": "Female",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": "30"
+  },
+  "121": {
+    "id": "121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rei Reiho",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://i.imgur.com/0ZBDgXF.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rei Reiho (Amaterasu)",
+    "type": "Partner",
+    "cost": 0,
+    "Magnetite Cost": false,
+    "Magnetite Emission": [
+      "Light"
+    ],
+    "Subtype": "Female",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "10"
+  },
+  "122": {
+    "id": "122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rei Reiho",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://i.imgur.com/nnfWeBs.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rei Reiho (Ishtar)",
+    "type": "Partner",
+    "cost": 0,
+    "Magnetite Cost": false,
+    "Magnetite Emission": [
+      "Chaos"
+    ],
+    "Subtype": "Female",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": "30"
+  },
+  "123": {
+    "id": "123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rei Reiho",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://i.imgur.com/rDf1QqE.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rei Reiho (Gabriel)",
+    "type": "Partner",
+    "cost": 0,
+    "Magnetite Cost": false,
+    "Magnetite Emission": [
+      "Law"
+    ],
+    "Subtype": "Female",
+    "Flying?": false,
+    "Attack Power": "10",
+    "HP": "20"
+  },
+  "124": {
+    "id": "124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kumiko",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://i.imgur.com/VR3Dh2n.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kumiko",
+    "type": "Partner",
+    "cost": 0,
+    "Magnetite Cost": false,
+    "Magnetite Emission": [
+      "Neutral"
+    ],
+    "Subtype": "Female",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": "10"
+  },
+  "125": {
+    "id": "125",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ayase",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://i.imgur.com/JgEmgIH.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ayase",
+    "type": "Partner",
+    "cost": 0,
+    "Magnetite Cost": false,
+    "Magnetite Emission": [
+      "Neutral"
+    ],
+    "Subtype": "Female",
+    "Flying?": false,
+    "Attack Power": "10",
+    "HP": "10"
+  },
+  "126": {
+    "id": "126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maki",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://i.imgur.com/480MU1C.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maki",
+    "type": "Partner",
+    "cost": 0,
+    "Magnetite Cost": false,
+    "Magnetite Emission": [
+      "Light",
+      "Law"
+    ],
+    "Subtype": "Female",
+    "Flying?": false,
+    "Attack Power": "10",
+    "HP": "20"
+  },
+  "127": {
+    "id": "127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Agastya Tree",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/yzoOj1v.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Agastya Tree",
+    "type": false,
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Consumable",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "128": {
+    "id": "128",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Demon Summoning Program",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/RVV3xLb.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Demon Summoning Program",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Consumable",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "129": {
+    "id": "129",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Icarus Wings",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/J3t9FIZ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Icarus Wings",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Equipment"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Equipment",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "130": {
+    "id": "130",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Catapult",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/7PHc0RB.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Catapult",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Instant",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "131": {
+    "id": "131",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Charon's Ferry",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/4EW9jMe.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Charon's Ferry",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Placed",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "132": {
+    "id": "132",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kwancha Guard",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/SX8wV2n.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kwancha Guard",
+    "type": false,
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Instant",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "133": {
+    "id": "133",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nectar",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/lpFRONw.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nectar",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Instant",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "134": {
+    "id": "134",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reverse Cross",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/Rlpjzni.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reverse Cross",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Placed",
+    "Flying?": false,
+    "Attack Power": "",
+    "HP": 0
+  },
+  "135": {
+    "id": "135",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gjallarhorn",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/zqLmDNe.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gjallarhorn",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Consumable",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "136": {
+    "id": "136",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scripture",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/lcwqZNO.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scripture",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Placed",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "137": {
+    "id": "137",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spider's Web",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/68mRKJB.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spider's Web",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Equipment",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "138": {
+    "id": "138",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gleipnir",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/9QKIXMS.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gleipnir",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Instant",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "139": {
+    "id": "139",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hi-Speed Program",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/19cAWWR.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hi-Speed Program",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Consumable",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "140": {
+    "id": "140",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Computer Virus",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/boYMIcX.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Computer Virus",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Placed",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "141": {
+    "id": "141",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scape Doll",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/326a8sN.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scape Doll",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Equipment",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "142": {
+    "id": "142",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stun Grenade",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/Mc3WdTy.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stun Grenade",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Instant",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "143": {
+    "id": "143",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Holy Grail",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/oCkrdGr.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Holy Grail",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Placed",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "144": {
+    "id": "144",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "RAM Expansion",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/9BOFhZv.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "RAM Expansion",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Placed",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "145": {
+    "id": "145",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Diamond",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/g1sXhL1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Diamond",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Placed",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "146": {
+    "id": "146",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Miltiple-Warhead Missile",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/VF5jtpe.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Multiple-Warhead Missile",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Instant",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "147": {
+    "id": "147",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chindhinfu",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/iNQLmkl.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chinshinfu",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Consumable",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "148": {
+    "id": "148",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Death Scythe",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/0REVeu8.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Death Scythe",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Equipment",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "149": {
+    "id": "149",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Doman-Seman Seal",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/W7vRQ8N.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Doman-Seman Seal",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Consumable",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "150": {
+    "id": "150",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cat Punch Bazooka",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/IrlC0vx.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cat Punch Bazooka",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Consumable",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "151": {
+    "id": "151",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Net Round",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/mHmIZv4.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Net Round",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Instant",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "152": {
+    "id": "152",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Balm of Life",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/Kq8nqyz.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Balm of Life",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Equipment",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "153": {
+    "id": "153",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Onyx",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/0OuUrPh.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Onyx",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Placed",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "154": {
+    "id": "154",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frost Hood",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/0g9gRR2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frost Hood",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Instant",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "155": {
+    "id": "155",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jewel",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/RAhcdJH.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jewel",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Consumable",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "156": {
+    "id": "156",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Full Moon Tablet",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/ftopXE7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Full Moon Tablet",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Placed",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "157": {
+    "id": "157",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Medusa's Head",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/fM07B5P.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Medusa's Head",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Placed",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "158": {
+    "id": "158",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lantern Hat",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/NB1Auq6.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lantern Hat",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Instant",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "159": {
+    "id": "159",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rosario",
+        "type": "Item",
+        "cost": 0,
+        "image": "https://i.imgur.com/wRjBuFk.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rosario",
+    "type": "Item",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Placed",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "160": {
+    "id": "160",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Agi",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/FcUQbH8.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Agi",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Magnetite"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Fire",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "161": {
+    "id": "161",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maragion",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/Rsjlh1I.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maragion",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Fire",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "162": {
+    "id": "162",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bufu",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/nUHb9Xt.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bufu",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Ice",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "163": {
+    "id": "163",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bufula",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/OHlLMLZ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bufula",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Ice",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "164": {
+    "id": "164",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zio",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/47BGlOj.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zio",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Electric",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "165": {
+    "id": "165",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mazio",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/7bH4fcd.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mazio",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Electric",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "166": {
+    "id": "166",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zan",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/s62b4Pj.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zan",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Force",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "167": {
+    "id": "167",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zanma",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/VLLD3ac.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zanma",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Force",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "168": {
+    "id": "168",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Psi",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/U5UviF7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Psi",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Psy",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "169": {
+    "id": "169",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mapsio",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/iVk6W4Y.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mapsio",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Psy",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "170": {
+    "id": "170",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hama",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/p8bfGfX.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hama",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Expel",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "171": {
+    "id": "171",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mudo",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/E75XQfJ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mudo",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Death",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "172": {
+    "id": "172",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Megido",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/1X8MqSt.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Megido",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Almighty",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "173": {
+    "id": "173",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Marin Karin",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/03A2AN7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Marin Karin",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Curse",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "174": {
+    "id": "174",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shuff",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/D9us1nE.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shuff",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Sealing",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "175": {
+    "id": "175",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kyou",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/XwuekFE.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kyou",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Sealing",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "176": {
+    "id": "176",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Makafuji",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/JYR9UZ4.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Makafuji",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Sealing",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "177": {
+    "id": "177",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dia",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/K28xmYu.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dia",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Restoration",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "178": {
+    "id": "178",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Patra",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/r2yA5OV.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Patra",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Restoration",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "179": {
+    "id": "179",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Samarecarm",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/ZaeTYTA.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Samarecarm",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Restoration",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "180": {
+    "id": "180",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tetrakarn",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/d2UJYzI.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tetrakarn",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Reflect",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "181": {
+    "id": "181",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Makarakarn",
+        "type": "Magic",
+        "cost": 0,
+        "image": "https://i.imgur.com/tQS7q5z.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Makarakarn",
+    "type": "Magic",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": false,
+    "Subtype": "Reflect",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": 0
+  },
+  "001": {
+    "id": "001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vishnu",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/UxYcFG3.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Visne",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Law"
+    ],
+    "Subtype": "Deity",
+    "Flying?": false,
+    "Attack Power": "80",
+    "HP": "70"
+  },
+  "002": {
+    "id": "002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Odib",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/RJ9h2L2.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Odin",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Law",
+      "Neutral"
+    ],
+    "Subtype": "Deity",
+    "Flying?": false,
+    "Attack Power": "70",
+    "HP": "60"
+  },
+  "003": {
+    "id": "003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Laksmi",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/AtkMU19.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Laksmi",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Law"
+    ],
+    "Subtype": "Megami",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": "50"
+  },
+  "004": {
+    "id": "004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pallas Athena",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/sT81qpk.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pallas Athena",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Law"
+    ],
+    "Subtype": "Megami",
+    "Flying?": false,
+    "Attack Power": "50",
+    "HP": "50"
+  },
+  "005": {
+    "id": "005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nakisawame",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/y8KEv1G.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nakisawame",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Law"
+    ],
+    "Subtype": "Megami",
+    "Flying?": false,
+    "Attack Power": "10",
+    "HP": "40"
+  },
+  "006": {
+    "id": "006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Metatron",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/OzIa5ay.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Metatron",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light"
+    ],
+    "Magnetite Emission": [
+      "Neutral"
+    ],
+    "Subtype": "Herald",
+    "Flying?": true,
+    "Attack Power": "60",
+    "HP": "60"
+  },
+  "007": {
+    "id": "007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sandalphon",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/cu064ns.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sandalphon",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light"
+    ],
+    "Subtype": "Herald",
+    "Flying?": true,
+    "Attack Power": "30",
+    "HP": "50"
+  },
+  "008": {
+    "id": "008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Victor",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/oKZb4O4.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Victor",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Law"
+    ],
+    "Subtype": "Herald",
+    "Flying?": true,
+    "Attack Power": "40",
+    "HP": "40"
+  },
+  "009": {
+    "id": "009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Garuda",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/HiVaICl.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Garuda",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Law",
+      "Neutral"
+    ],
+    "Subtype": "Avian",
+    "Flying?": true,
+    "Attack Power": "60",
+    "HP": "50"
+  },
+  "010": {
+    "id": "010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Phoenix",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/BeGFjPg.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phoenix",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Law",
+      "Neutral"
+    ],
+    "Subtype": "Avian",
+    "Flying?": true,
+    "Attack Power": "20",
+    "HP": "40"
+  },
+  "011": {
+    "id": "011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hamsa",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/4YwfXNA.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hamsa",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law"
+    ],
+    "Magnetite Emission": [
+      "Light"
+    ],
+    "Subtype": "Avian",
+    "Flying?": false,
+    "Attack Power": "10",
+    "HP": "30"
+  },
+  "012": {
+    "id": "012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kukunochi",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/sL6eflB.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kukunochi",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Law",
+      "Neutral"
+    ],
+    "Subtype": "Tree",
+    "Flying?": false,
+    "Attack Power": "30",
+    "HP": "71"
+  },
+  "013": {
+    "id": "013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Daphne",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/lIDhxuZ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daphne",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Law",
+      "Neutral"
+    ],
+    "Subtype": "Tree",
+    "Flying?": false,
+    "Attack Power": "10",
+    "HP": "50"
+  },
+  "014": {
+    "id": "014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hanuman",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/AkkWhIp.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hanuman",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Genma",
+    "Flying?": false,
+    "Attack Power": "50",
+    "HP": "30"
+  },
+  "015": {
+    "id": "015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cu Chulaim",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/VgHqINg.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cu Chulaim",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos"
+    ],
+    "Subtype": "Genma",
+    "Flying?": false,
+    "Attack Power": "40",
+    "HP": "40"
+  },
+  "016": {
+    "id": "016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Khonsu",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/gMM4Y2f.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Khonsu",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Light"
+    ],
+    "Magnetite Emission": [
+      "Neutral"
+    ],
+    "Subtype": "Genma",
+    "Flying?": false,
+    "Attack Power": "10",
+    "HP": "20"
+  },
+  "017": {
+    "id": "017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Balong",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/yyleVMb.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Balong",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Avatar",
+    "Flying?": false,
+    "Attack Power": "50",
+    "HP": "60"
+  },
+  "018": {
+    "id": "018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chimera",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/W69NaKM.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chimera",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Avatar",
+    "Flying?": false,
+    "Attack Power": "30",
+    "HP": "50"
+  },
+  "019": {
+    "id": "019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sleipnitr",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/VKEdEHm.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sleipnir",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Neutral"
+    ],
+    "Subtype": "Holy",
+    "Flying?": false,
+    "Attack Power": "40",
+    "HP": "40"
+  },
+  "020": {
+    "id": "020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shiisaa",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/jeXsuBf.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shiisaa",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Light"
+    ],
+    "Magnetite Emission": [
+      "Light"
+    ],
+    "Subtype": "Holy",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "10"
+  },
+  "021": {
+    "id": "021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yarilo",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/1beBtN8.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kama",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Enigma",
+    "Flying?": true,
+    "Attack Power": "40",
+    "HP": "40"
+  },
+  "022": {
+    "id": "022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yarilo",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/vim2OuK.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yarilo",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Enigma",
+    "Flying?": false,
+    "Attack Power": "40",
+    "HP": "50"
+  },
+  "023": {
+    "id": "023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guan Yu",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/452IGJ8.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guan Di Sheng Gong",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Neutral"
+    ],
+    "Subtype": "Hero",
+    "Flying?": false,
+    "Attack Power": "60",
+    "HP": "60"
+  },
+  "024": {
+    "id": "024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Siegfried",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/GqLYHCZ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Siegfried",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Chaos"
+    ],
+    "Subtype": "Hero",
+    "Flying?": false,
+    "Attack Power": "60",
+    "HP": "40"
+  },
+  "025": {
+    "id": "025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yoshitsune",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/DgvxGSh.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yoshitsune",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Law",
+      "Chaos"
+    ],
+    "Subtype": "Hero",
+    "Flying?": false,
+    "Attack Power": "40",
+    "HP": "60"
+  },
+  "026": {
+    "id": "026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shiva",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/Y55xb6Y.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shiva",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Fury",
+    "Flying?": false,
+    "Attack Power": "80",
+    "HP": "80"
+  },
+  "027": {
+    "id": "027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wukong",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/6fRcnJG.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Qitian Dasheng",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Light"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Chaos"
+    ],
+    "Subtype": "Fury",
+    "Flying?": true,
+    "Attack Power": "50",
+    "HP": "50"
+  },
+  "028": {
+    "id": "028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ogun",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/MqYpYda.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ogun",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Light"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Chaos"
+    ],
+    "Subtype": "Fury",
+    "Flying?": false,
+    "Attack Power": "40",
+    "HP": "20"
+  },
+  "029": {
+    "id": "029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kali",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/x1XCwSJ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kali",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Chaos"
+    ],
+    "Subtype": "Lady",
+    "Flying?": false,
+    "Attack Power": "60",
+    "HP": "50"
+  },
+  "030": {
+    "id": "030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Black Maria",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/wYHEbjX.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Black Maria",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Chaos"
+    ],
+    "Subtype": "Lady",
+    "Flying?": true,
+    "Attack Power": "20",
+    "HP": "50"
+  },
+  "031": {
+    "id": "031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kikurihime",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/4QstxJp.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kikurihime",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Chaos"
+    ],
+    "Subtype": "Lady",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "32"
+  },
+  "032": {
+    "id": "032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kuvera",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/loxDsUY.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kuvera",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Chaos"
+    ],
+    "Subtype": "Kishin",
+    "Flying?": false,
+    "Attack Power": "60",
+    "HP": "50"
+  },
+  "033": {
+    "id": "033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thor",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/8dk3Um1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thor",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Light"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Neutral"
+    ],
+    "Subtype": "Kishin",
+    "Flying?": false,
+    "Attack Power": "80",
+    "HP": "30"
+  },
+  "034": {
+    "id": "034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Otogodouji",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/ZDUi1HA.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Otogodouji",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Chaos"
+    ],
+    "Subtype": "Kishin",
+    "Flying?": false,
+    "Attack Power": "40",
+    "HP": "20"
+  },
+  "035": {
+    "id": "035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ananta",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/mkdWmra.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ananta",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Light"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Chaos"
+    ],
+    "Subtype": "Dragon",
+    "Flying?": false,
+    "Attack Power": "90",
+    "HP": "92"
+  },
+  "036": {
+    "id": "036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Illuyanka",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/NaNVo60.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Illuyanka",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Dragon",
+    "Flying?": false,
+    "Attack Power": "60",
+    "HP": "63"
+  },
+  "037": {
+    "id": "037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quetzalcoatl",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/YbCaSxm.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quetzalcoatl",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Dragon",
+    "Flying?": false,
+    "Attack Power": "40",
+    "HP": "40"
+  },
+  "038": {
+    "id": "038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Throne",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/CGDXrsr.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Throne",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Law",
+      "Neutral"
+    ],
+    "Subtype": "Divine",
+    "Flying?": true,
+    "Attack Power": "50",
+    "HP": "50"
+  },
+  "039": {
+    "id": "039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Power",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/qz10o2d.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Power",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Law",
+      "Neutral"
+    ],
+    "Subtype": "Divine",
+    "Flying?": true,
+    "Attack Power": "30",
+    "HP": "30"
+  },
+  "040": {
+    "id": "040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Principality",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/T7QGeQf.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Principality",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light"
+    ],
+    "Subtype": "Divine",
+    "Flying?": true,
+    "Attack Power": "20",
+    "HP": "10"
+  },
+  "041": {
+    "id": "041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Angel",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/0BwqfeK.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Angel",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Law"
+    ],
+    "Subtype": "Divine",
+    "Flying?": true,
+    "Attack Power": "20",
+    "HP": "10"
+  },
+  "042": {
+    "id": "042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caladrius",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/J1mUcVU.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caladrius",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light"
+    ],
+    "Subtype": "Flight",
+    "Flying?": true,
+    "Attack Power": "10",
+    "HP": "30"
+  },
+  "043": {
+    "id": "043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tuofei",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/7ZTbeZ4.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tuofei",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Law"
+    ],
+    "Subtype": "Flight",
+    "Flying?": true,
+    "Attack Power": "20",
+    "HP": "20"
+  },
+  "044": {
+    "id": "044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ba",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/WfIcPB7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ba",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light"
+    ],
+    "Subtype": "Flight",
+    "Flying?": true,
+    "Attack Power": "10",
+    "HP": "12"
+  },
+  "045": {
+    "id": "045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ganesha",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/vEqjSNy.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ganesha",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Neutral"
+    ],
+    "Subtype": "Yoma",
+    "Flying?": false,
+    "Attack Power": "50",
+    "HP": "50"
+  },
+  "046": {
+    "id": "046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tengu",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/JBULH73.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tengu",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Yoma",
+    "Flying?": true,
+    "Attack Power": "20",
+    "HP": "20"
+  },
+  "047": {
+    "id": "047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Agathion",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/M8avO4i.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Agathion",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Dark"
+    ],
+    "Subtype": "Yoma",
+    "Flying?": true,
+    "Attack Power": "10",
+    "HP": "10"
+  },
+  "048": {
+    "id": "048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jack-O-Lantern",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/oeJZpfY.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jack-O-Lantern",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Dark"
+    ],
+    "Subtype": "Fairy",
+    "Flying?": true,
+    "Attack Power": "20",
+    "HP": "11"
+  },
+  "049": {
+    "id": "049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jack Frost",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/0VAGpXR.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jack Frost",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Law",
+      "Chaos"
+    ],
+    "Subtype": "Fairy",
+    "Flying?": false,
+    "Attack Power": "10",
+    "HP": "20"
+  },
+  "050": {
+    "id": "050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pixie",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/IRCQarh.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pixie",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Law"
+    ],
+    "Subtype": "Fairy",
+    "Flying?": true,
+    "Attack Power": "0",
+    "HP": "10"
+  },
+  "051": {
+    "id": "051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yamata-no-Orochi",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/O5HiByn.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yamata-no-Orochi",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Neutral"
+    ],
+    "Subtype": "Snake",
+    "Flying?": false,
+    "Attack Power": "50",
+    "HP": "80"
+  },
+  "052": {
+    "id": "052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Naga",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/vhX6vzR.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Naga",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Light",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Neutral"
+    ],
+    "Subtype": "Snake",
+    "Flying?": false,
+    "Attack Power": "40",
+    "HP": "40"
+  },
+  "053": {
+    "id": "053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vouivre",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/3dVniPH.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vouivre",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Neutral"
+    ],
+    "Subtype": "Snake",
+    "Flying?": true,
+    "Attack Power": "20",
+    "HP": "30"
+  },
+  "054": {
+    "id": "054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cerberus",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/ZGc1CrV.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cerberus",
+    "type": false,
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Neutral"
+    ],
+    "Subtype": "Beast",
+    "Flying?": false,
+    "Attack Power": "30",
+    "HP": "40"
+  },
+  "055": {
+    "id": "055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nekomata",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/VndpE6M.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nekomata",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Beast",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "30"
+  },
+  "056": {
+    "id": "056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Titan",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/7CJN6Pp.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Titan",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Light",
+      "Chaos"
+    ],
+    "Subtype": "Jirae",
+    "Flying?": false,
+    "Attack Power": "40",
+    "HP": "70"
+  },
+  "057": {
+    "id": "057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kwancha",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/oPvls3K.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kwancha",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark"
+    ],
+    "Subtype": "Jirae",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "50"
+  },
+  "058": {
+    "id": "058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Knocker",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/mAJGUtt.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Knocker",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos"
+    ],
+    "Subtype": "Jirae",
+    "Flying?": false,
+    "Attack Power": "10",
+    "HP": "33"
+  },
+  "059": {
+    "id": "059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hypnos",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/9fboLeK.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hypnos",
+    "type": false,
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Night",
+    "Flying?": false,
+    "Attack Power": "30",
+    "HP": "40"
+  },
+  "060": {
+    "id": "060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Succubus",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/Hk3oHen.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Succubus",
+    "type": false,
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Chaos"
+    ],
+    "Subtype": "Night",
+    "Flying?": true,
+    "Attack Power": "0",
+    "HP": "40"
+  },
+  "061": {
+    "id": "061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sandman",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/HPKJWtu.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sandman",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos"
+    ],
+    "Subtype": "Night",
+    "Flying?": false,
+    "Attack Power": "0",
+    "HP": "20"
+  },
+  "062": {
+    "id": "062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Barbatos",
+        "type": false,
+        "cost": 0,
+        "image": "https://i.imgur.com/9Ly66XF.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Barbatos",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Neutral"
+    ],
+    "Subtype": "Fallen",
+    "Flying?": false,
+    "Attack Power": "30",
+    "HP": "40"
+  },
+  "063": {
+    "id": "063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Melchom",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/pBowsWQ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Melchom",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Chaos"
+    ],
+    "Subtype": "Fallen",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "20"
+  },
+  "064": {
+    "id": "064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stolas",
+        "type": false,
+        "cost": 0,
+        "image": "https://i.imgur.com/UzoZZCC.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stolas",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos"
+    ],
+    "Subtype": "Fallen",
+    "Flying?": false,
+    "Attack Power": "10",
+    "HP": "20"
+  },
+  "065": {
+    "id": "065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Berserker",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/ejkWLCM.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Berserker",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Brute",
+    "Flying?": false,
+    "Attack Power": "40",
+    "HP": "40"
+  },
+  "066": {
+    "id": "066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Purski",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/alKWY9Y.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Purski",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark"
+    ],
+    "Subtype": "Brute",
+    "Flying?": false,
+    "Attack Power": "30",
+    "HP": "10"
+  },
+  "067": {
+    "id": "067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yamawaro",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/nlSARpb.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yamawaro",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Neutral"
+    ],
+    "Subtype": "Brute",
+    "Flying?": false,
+    "Attack Power": "30",
+    "HP": "10"
+  },
+  "068": {
+    "id": "068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rangda",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/xDcMQdC.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rangda",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark"
+    ],
+    "Subtype": "Femme",
+    "Flying?": false,
+    "Attack Power": "60",
+    "HP": "50"
+  },
+  "069": {
+    "id": "069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Leanan Sidhe",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/8px9diX.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Leanan Sidhe",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos"
+    ],
+    "Subtype": "Femme",
+    "Flying?": true,
+    "Attack Power": "20",
+    "HP": "20"
+  },
+  "070": {
+    "id": "070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yomotsu-Shikome",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/zfcyfut.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yomotsu-Shikome",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Chaos"
+    ],
+    "Subtype": "Femme",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "20"
+  },
+  "071": {
+    "id": "071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pales",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/DGv42x1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pales",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Neutral"
+    ],
+    "Subtype": "Vile",
+    "Flying?": false,
+    "Attack Power": "100",
+    "HP": "100"
+  },
+  "072": {
+    "id": "072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Taotie",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/M77fMYn.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Taotie",
+    "type": false,
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Law",
+      "Neutral"
+    ],
+    "Subtype": "Vile",
+    "Flying?": false,
+    "Attack Power": "50",
+    "HP": "60"
+  },
+  "073": {
+    "id": "073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kanaloa",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/wmr1Y2a.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kanaloa",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Law"
+    ],
+    "Subtype": "Vile",
+    "Flying?": false,
+    "Attack Power": "60",
+    "HP": "60"
+  },
+  "074": {
+    "id": "074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chemosh",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/hPsnwHl.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chemosh",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Law",
+      "Neutral"
+    ],
+    "Subtype": "Vile",
+    "Flying?": false,
+    "Attack Power": "30",
+    "HP": "62"
+  },
+  "075": {
+    "id": "075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pachacamac",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/317Tche.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pachacamac",
+    "type": false,
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Dark"
+    ],
+    "Magnetite Emission": [
+      "Dark"
+    ],
+    "Subtype": "Vile",
+    "Flying?": false,
+    "Attack Power": "40",
+    "HP": "30"
+  },
+  "076": {
+    "id": "076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anzu",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/qSiplp6.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anzu",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark"
+    ],
+    "Subtype": "Raptor",
+    "Flying?": true,
+    "Attack Power": "30",
+    "HP": "40"
+  },
+  "077": {
+    "id": "077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stymphalides",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/8QuQYLc.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stymphalides",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark"
+    ],
+    "Subtype": "Raptor",
+    "Flying?": true,
+    "Attack Power": "30",
+    "HP": "20"
+  },
+  "078": {
+    "id": "078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Moh Shuvuu",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/ytyhQGO.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Moh Shuvuu",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Neutral"
+    ],
+    "Subtype": "Raptor",
+    "Flying?": true,
+    "Attack Power": "10",
+    "HP": "20"
+  },
+  "079": {
+    "id": "079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hippou",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/ojY50ki.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hippou",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Dark"
+    ],
+    "Magnetite Emission": [
+      "Dark"
+    ],
+    "Subtype": "Raptor",
+    "Flying?": true,
+    "Attack Power": "10",
+    "HP": "10"
+  },
+  "080": {
+    "id": "080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Es",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/gncwKW6.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Es",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Law",
+      "Neutral"
+    ],
+    "Subtype": "Wood",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "60"
+  },
+  "081": {
+    "id": "081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zaccoum",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/DbPj1zs.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zaccoum",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law",
+      "Dark"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Law",
+      "Neutral"
+    ],
+    "Subtype": "Wood",
+    "Flying?": false,
+    "Attack Power": "30",
+    "HP": "50"
+  },
+  "082": {
+    "id": "082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alraune",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/vErq480.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alraune",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Law"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Law",
+      "Neutral"
+    ],
+    "Subtype": "Wood",
+    "Flying?": false,
+    "Attack Power": "0",
+    "HP": "50"
+  },
+  "083": {
+    "id": "083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mandrake",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/ANQeHxc.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mandrake",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Law"
+    ],
+    "Subtype": "Wood",
+    "Flying?": false,
+    "Attack Power": "0",
+    "HP": "30"
+  },
+  "084": {
+    "id": "084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mot",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/DamfQMy.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mot",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark"
+    ],
+    "Subtype": "Reaper",
+    "Flying?": false,
+    "Attack Power": "30",
+    "HP": "80"
+  },
+  "085": {
+    "id": "085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chernobog",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/YX6QHAt.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chernobog",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Law"
+    ],
+    "Subtype": "Reaper",
+    "Flying?": false,
+    "Attack Power": "40",
+    "HP": "40"
+  },
+  "086": {
+    "id": "086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Taown",
+        "type": false,
+        "cost": 0,
+        "image": "https://i.imgur.com/E0NCD7U.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Taown",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Chaos"
+    ],
+    "Subtype": "Wilder",
+    "Flying?": false,
+    "Attack Power": "50",
+    "HP": "50"
+  },
+  "087": {
+    "id": "087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Catoblepas",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/Bw8rXBT.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Catoblepas",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Dark",
+      "Magnetite"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Wilder",
+    "Flying?": false,
+    "Attack Power": "60",
+    "HP": "60"
+  },
+  "088": {
+    "id": "088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Waira",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/T48shYi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Waira",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark"
+    ],
+    "Subtype": "Wilder",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "10"
+  },
+  "089": {
+    "id": "089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grendel",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/yPoBmvU.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grendel",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Jaki"
+    ],
+    "Magnetite Emission": [
+      "Chaos",
+      "Dark",
+      "Neutral"
+    ],
+    "Subtype": "Jaki",
+    "Flying?": false,
+    "Attack Power": "40",
+    "HP": "60"
+  },
+  "090": {
+    "id": "090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Girimekhala",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/vJfgzlc.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Girimekhala",
+    "type": false,
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Jaki",
+    "Flying?": false,
+    "Attack Power": "50",
+    "HP": "20"
+  },
+  "091": {
+    "id": "091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ogre",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/QF8eZN7.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ogre",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos"
+    ],
+    "Subtype": "Jaki",
+    "Flying?": false,
+    "Attack Power": "30",
+    "HP": "10"
+  },
+  "092": {
+    "id": "092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zombie Cop",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/R0JkJRp.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zombie Cop",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Dark"
+    ],
+    "Magnetite Emission": [
+      "Chaos"
+    ],
+    "Subtype": "Undead",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "30"
+  },
+  "093": {
+    "id": "093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Agony",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/1HiEiVO.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Agony",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Neutral"
+    ],
+    "Subtype": "Undead",
+    "Flying?": false,
+    "Attack Power": "20",
+    "HP": "30"
+  },
+  "094": {
+    "id": "094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Waxwork",
+        "type": false,
+        "cost": 0,
+        "image": "https://i.imgur.com/yL8d4ix.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Waxwork",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Dark"
+    ],
+    "Magnetite Emission": [
+      "Dark"
+    ],
+    "Subtype": "Undead",
+    "Flying?": false,
+    "Attack Power": 0,
+    "HP": "10"
+  },
+  "095": {
+    "id": "095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mothman",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/ttqTHkQ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mothman",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Chaos"
+    ],
+    "Subtype": "Vermin",
+    "Flying?": true,
+    "Attack Power": "30",
+    "HP": "20"
+  },
+  "096": {
+    "id": "096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yowie",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/bnehrlD.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yowie",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark"
+    ],
+    "Subtype": "Vermin",
+    "Flying?": false,
+    "Attack Power": "10",
+    "HP": "10"
+  },
+  "097": {
+    "id": "097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chi You",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/KsCtalH.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chi You",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Chaos",
+      "Neutral"
+    ],
+    "Subtype": "Tyrant",
+    "Flying?": false,
+    "Attack Power": "70",
+    "HP": "70"
+  },
+  "098": {
+    "id": "098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rahu",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/75DmGUc.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rahu",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Dark",
+      "Chaos"
+    ],
+    "Subtype": "Tyrant",
+    "Flying?": true,
+    "Attack Power": "20",
+    "HP": "50"
+  },
+  "099": {
+    "id": "099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Loki",
+        "type": "Demon",
+        "cost": 0,
+        "image": "https://i.imgur.com/wgC89fl.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Loki",
+    "type": "Demon",
+    "cost": 0,
+    "Magnetite Cost": [
+      "Chaos",
+      "Dark",
+      "Neutral"
+    ],
+    "Magnetite Emission": [
+      "Chaos"
+    ],
+    "Subtype": "Tyrant",
+    "Flying?": false,
+    "Attack Power": "50",
+    "HP": "50"
+  },
+  "Mark": {
+    "id": "Mark",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mark",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://i.imgur.com/jfT7xhT.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mark",
+    "type": "Partner",
+    "cost": 0,
+    "Magnetite Cost": false,
+    "Magnetite Emission": [
+      "Chaos"
+    ],
+    "Subtype": "Male",
+    "Flying?": false,
+    "Attack Power": "10",
+    "HP": "30"
+  }
+}
