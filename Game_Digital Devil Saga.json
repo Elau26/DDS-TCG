@@ -1,0 +1,320 @@
+{
+  "name": "Digital Devil Saga",
+  "menuBackgroundImage": "https://i.imgur.com/0jKCD7L.jpeg",
+  "defaultRessources": {
+    "backgrounds": [
+      "blob:https://imgur.com/d1ad7d50-b54e-48bd-b625-86acdc78c4d1"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "https://docs.google.com/document/d/1w4otO4Z_pglnkHhmR8bd4Bdwk6s26Hu_1SwJKjei6h4",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://github.com/Elau26/DDS-TCG/blob/main/CardList.json",
+    "cardBack": "https://i.imgur.com/0jKCD7L.jpeg"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Demon",
+      "Partner",
+      "Item",
+      "Magic"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Standard play of the Digital Devil Story Card Game",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "If your starting hand contains no partner cards, you are able to redraw. You must show your opponent your hand to show you have no partner cards, and then return your hand to your deck, shuffle it, and draw 6 cards. If you still have no partner card after redrawing, you may try again. Your starting hand will contain one less card for every time you redraw.  Thus, if you don't have a partner card in your starting hand, you can redraw up to 6 times. Of course, as a strategy, you can start the game without redrawing. In this case, you do not need to show your opponent your hand.  ●What if I run out of cards?  If your deck runs out of cards, you don't immediately lose.  The game will continue without you drawing a card. Without having cards to draw you will be at a disadvantage, but victory is not impossible. Depending on the situation, it's entirely possible to win.",
+        "startingHandSize": 7,
+        "drawNewHand": true,
+        "putSelectionAtBottom": true,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "200"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "VRTheatre",
+          "Placed",
+          "Demon1",
+          "Demon2",
+          "Demon3",
+          "Demon4",
+          "Demon5",
+          "Demon6",
+          "FemalePartner",
+          "MalePartner"
+        ],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": true,
+          "content": [
+            {
+              "direction": "column",
+              "style": {
+                "width": "32vh",
+                "marginRight": "8vh"
+              },
+              "content": [
+                {
+                  "section": "VRTheatre",
+                  "style": false
+                },
+                {
+                  "section": "Placed",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Demon1",
+                  "style": false
+                },
+                {
+                  "section": "Demon4",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Demon2",
+                  "style": false
+                },
+                {
+                  "section": "Demon5",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Demon3",
+                  "style": false
+                },
+                {
+                  "section": "Demon6",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": {
+                "width": "32vh",
+                "marginLeft": "8vh"
+              },
+              "content": [
+                {
+                  "section": "FemalePartner",
+                  "style": false
+                },
+                {
+                  "section": "MalePartner",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "VRTheatre": {
+            "title": "VRTheatre",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "VR Theatre",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Placed": {
+            "title": "Placed",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Placed",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Demon1": {
+            "title": "Demon1",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Demon",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Demon2": {
+            "title": "Demon2",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Demon",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Demon3": {
+            "title": "Demon3",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Demon",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Demon4": {
+            "title": "Demon4",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Demon",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Demon5": {
+            "title": "Demon5",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Demon",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Demon6": {
+            "title": "Demon6",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Demon",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "FemalePartner": {
+            "title": "FemalePartner",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Female Partner",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "MalePartner": {
+            "title": "MalePartner",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Male Partner",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
