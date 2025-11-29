@@ -3,7 +3,7 @@
   "menuBackgroundImage": "https://i.imgur.com/0jKCD7L.jpeg",
   "defaultRessources": {
     "backgrounds": [
-      "blob:https://imgur.com/d1ad7d50-b54e-48bd-b625-86acdc78c4d1"
+      "https://imgur.com/d1ad7d50-b54e-48bd-b625-86acdc78c4d1"
     ],
     "decksUrl": ""
   },
@@ -156,7 +156,7 @@
           "VRTheatre": {
             "title": "VRTheatre",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -172,7 +172,7 @@
           "Placed": {
             "title": "Placed",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -188,7 +188,7 @@
           "Demon1": {
             "title": "Demon1",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -204,7 +204,7 @@
           "Demon2": {
             "title": "Demon2",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -220,7 +220,7 @@
           "Demon3": {
             "title": "Demon3",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -236,7 +236,7 @@
           "Demon4": {
             "title": "Demon4",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -252,7 +252,7 @@
           "Demon5": {
             "title": "Demon5",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -268,7 +268,7 @@
           "Demon6": {
             "title": "Demon6",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -284,7 +284,7 @@
           "FemalePartner": {
             "title": "FemalePartner",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -300,7 +300,7 @@
           "MalePartner": {
             "title": "MalePartner",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
