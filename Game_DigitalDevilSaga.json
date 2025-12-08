@@ -74,57 +74,87 @@
               },
               "content": [
                 {
-                  "section": "VRTheatre",
-                  "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "VRTheatre",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": true
                 },
                 {
-                  "section": "Placed",
-                  "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Placed",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": true
                 }
               ],
               "isSymetricalForOpponents": false
             },
             {
               "direction": "column",
-              "style": false,
+              "style": {
+                "width": "93vh",
+                "marginRight": "auto",
+                "marginLeft": "auto"
+              },
               "content": [
                 {
-                  "section": "Demon1",
-                  "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Demon1",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    },
+                    {
+                      "section": "Demon2",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    },
+                    {
+                      "section": "Demon3",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                  "section": "Demon4",
-                  "style": false
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "column",
-              "style": false,
-              "content": [
-                {
-                  "section": "Demon2",
-                  "style": false
-                },
-                {
-                  "section": "Demon5",
-                  "style": false
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "column",
-              "style": false,
-              "content": [
-                {
-                  "section": "Demon3",
-                  "style": false
-                },
-                {
-                  "section": "Demon6",
-                  "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Demon4",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    },
+                    {
+                      "section": "Demon5",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    },
+                    {
+                      "section": "Demon6",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -137,15 +167,29 @@
               },
               "content": [
                 {
-                  "section": "FemalePartner",
-                  "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "FemalePartner",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                  "section": "MalePartner",
-                  "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "MalePartner",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
               ],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
             }
           ]
         },
