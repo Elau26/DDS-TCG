@@ -351,7 +351,7 @@
       }
     },
     "name": "Charley",
-    "type": false,
+    "type": "Partner",
     "cost": 0,
     "Magnetite Cost": false,
     "Magnetite Emission": [
@@ -692,7 +692,7 @@
       }
     },
     "name": "Agastya Tree",
-    "type": false,
+    "type": "Item",
     "cost": 0,
     "Magnetite Cost": [
       "Neutral"
@@ -743,7 +743,7 @@
     "type": "Item",
     "cost": 0,
     "Magnetite Cost": [
-      "Equipment"
+      "Neutral"
     ],
     "Magnetite Emission": false,
     "Subtype": "Equipment",
@@ -812,7 +812,7 @@
       }
     },
     "name": "Kwancha Guard",
-    "type": false,
+    "type": "Item",
     "cost": 0,
     "Magnetite Cost": [
       "Neutral"
@@ -1487,7 +1487,7 @@
     "type": "Magic",
     "cost": 0,
     "Magnetite Cost": [
-      "Magnetite"
+      "Neutral"
     ],
     "Magnetite Emission": false,
     "Subtype": "Fire",
@@ -3501,7 +3501,7 @@
       }
     },
     "name": "Cerberus",
-    "type": false,
+    "type": "Demon",
     "cost": 0,
     "Magnetite Cost": [
       "Neutral"
@@ -3634,7 +3634,7 @@
       }
     },
     "name": "Hypnos",
-    "type": false,
+    "type": "Demon",
     "cost": 0,
     "Magnetite Cost": [
       "Chaos",
@@ -3663,7 +3663,7 @@
       }
     },
     "name": "Succubus",
-    "type": false,
+    "type": "Demon",
     "cost": 0,
     "Magnetite Cost": [
       "Chaos",
@@ -3989,7 +3989,7 @@
       }
     },
     "name": "Taotie",
-    "type": false,
+    "type": "Demon",
     "cost": 0,
     "Magnetite Cost": [
       "Law",
@@ -4076,7 +4076,7 @@
       }
     },
     "name": "Pachacamac",
-    "type": false,
+    "type": "Demon",
     "cost": 0,
     "Magnetite Cost": [
       "Law",
@@ -4469,10 +4469,11 @@
     "type": "Demon",
     "cost": 0,
     "Magnetite Cost": [
-      "Jaki"
+      "Chaos",
+      "Dark",
+      "Neutral"
     ],
     "Magnetite Emission": [
-      "Chaos",
       "Dark",
       "Neutral"
     ],
@@ -4494,7 +4495,7 @@
       }
     },
     "name": "Girimekhala",
-    "type": false,
+    "type": "Demon",
     "cost": 0,
     "Magnetite Cost": [
       "Chaos",
