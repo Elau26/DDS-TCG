@@ -10,7 +10,7 @@
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://github.com/Elau26/DDS-TCG/blob/fe52ee74acd15ea315a22f69e293bb9a0d246d97/CardList.json",
+    "dataUrl": "https://raw.githubusercontent.com/Elau26/DDS-TCG/refs/heads/main/CardList.json",
     "cardBack": "https://i.imgur.com/0jKCD7L.jpeg"
   },
   "deckBuilding": {
